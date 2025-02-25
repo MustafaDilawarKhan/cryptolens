@@ -1,0 +1,14 @@
+# Workspace version: 1.42.49
+uvicorn[standard]==0.29.0
+ipykernel==6.29.5
+python-multipart==0.0.9
+fastapi==0.111.0
+databutton==0.38.34
+openai
+beautifulsoup4
+requests
+cachetools
+lxml
+websockets
+lxml[html_clean]
+playwright
